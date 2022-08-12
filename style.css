@@ -42,7 +42,7 @@ ul li label{
   cursor: pointer;
 }
 button{
-  background-color: #03cae4;
+  background-color: #ac7810;
   color: #fff;
   border: none;
   display: block;
@@ -53,9 +53,9 @@ button{
   padding: 1.3rem;
 }
 button:hover{
-  background-color: #04adc4;
+  background-color: #c99328;
 }
 button:focus{
   outline: none;
-  background-color: #44b927;
+  background-color: #ac7810;
 }

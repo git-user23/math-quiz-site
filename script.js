@@ -1,5 +1,6 @@
 const quizData = [
     {
+        
         question: "Which language runs in a web browser?",
         a: "Java",
         b: "C",
@@ -30,7 +31,16 @@ const quizData = [
         c: "1994",
         d: "none of the above",
         correct: "b",
+        
     },
+    {
+        question: "2 + 2 = ",
+        a: "1996",
+        b: "1995",
+        c: "1994",
+        d: "none of the above",
+        correct: "b",
+    }
 
 
 ];
